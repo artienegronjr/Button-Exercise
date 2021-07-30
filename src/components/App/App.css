@@ -17,3 +17,7 @@ body {
   justify-content: center;
   margin-top: 5rem;
 }
+
+.App p {
+  margin-top: 1rem;
+}
